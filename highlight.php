@@ -5,7 +5,7 @@
 
   $hl->setAutodetectLanguages(array('ruby', 'python', 'php'));
 
-
+// ok
   $r = $hl->highlightAuto(file_get_contents('index.php'));
 
   // Output the code using the default stylesheet:

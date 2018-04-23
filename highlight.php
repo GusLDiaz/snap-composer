@@ -1,5 +1,5 @@
 <?php
-
+//initialize autoloader
   $hl = new Highlight\Highlighter();
 
 
